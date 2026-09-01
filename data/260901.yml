@@ -1,0 +1,59 @@
+about:
+  description: Lightweight file-based CLI API client with age-encrypted secrets, first-class GraphQL support and MCP server for agentic workflow.
+  license: MIT
+  homepage: 
+  head: 3f0667d
+  archived: false
+  latestVersion: v0.3.33
+  collectedAt: 2026-09-01T05:46:00Z
+timeline:
+  created: 2024-02-19
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 92
+  watcher: 1
+  fork: 6
+  release: 32
+  contributor: 4
+  pullRequest: 3
+  issue: 131
+language:
+  Go: 1756969
+  Shell: 21542
+  HTML: 2599
+  Tape: 1949
+totalLine: 1783059
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 2
+    mergedPR: 4
+    openPR: 0
+    closedIssue: 1
+    openIssue: 1
+    commit: 33
+  last90d:
+    since: 2026-06-03
+    release: 5
+    mergedPR: 11
+    openPR: 0
+    closedIssue: 4
+    openIssue: 1
+    commit: 45
+  last180d:
+    since: 2026-03-05
+    release: 19
+    mergedPR: 68
+    openPR: 0
+    closedIssue: 50
+    openIssue: 19
+    commit: 321
+  last360d:
+    since: 2025-09-06
+    release: 21
+    mergedPR: 94
+    openPR: 0
+    closedIssue: 82
+    openIssue: 20
+    commit: 395
