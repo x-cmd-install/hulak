@@ -1,17 +1,19 @@
 about:
-  description: Lightweight file-based CLI API client with age-encrypted secrets, first-class GraphQL support and MCP server for agentic workflow.
+  description:
+  |
+    Lightweight file-based CLI API client with age-encrypted secrets, first-class GraphQL support and MCP server for agentic workflow.
   license: MIT
   homepage: 
   head: 3f0667d
   archived: false
   latestVersion: v0.3.33
-  collectedAt: 2026-09-03T05:14:24Z
+  collectedAt: 2026-09-03T22:35:04Z
 timeline:
   created: 2024-02-19
   lastCommit: 2026-08-28
   lastRelease: 2026-08-28
 popularity:
-  star: 92
+  star: 93
   watcher: 1
   fork: 6
   release: 32
@@ -23,7 +25,7 @@ language:
   Shell: 21542
   HTML: 2599
   Tape: 1949
-totalLine: 1783059
+totalBytes: 1783059
 recent:
   last30d:
     since: 2026-08-04
