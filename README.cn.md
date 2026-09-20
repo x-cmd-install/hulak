@@ -4,7 +4,7 @@
 
 Lightweight file-based CLI API client with age-encrypted secrets, first-class GraphQL support and MCP server for agentic workflow.
 
-![hulak](https://repo.x-cmd.io/hulak.svg?lang=zh)
+[![x-cmd/install — hulak Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hulak.svg?lang=zh)](https://x-cmd.com/install/hulak)
 
 ## 安装
 
@@ -47,12 +47,12 @@ x install hulak
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 3 | 0 | 0 | 1 | 28 |
-| last60d | 2026-07-20 | 3 | 5 | 0 | 2 | 2 | 34 |
-| 90d | 2026-06-20 | 5 | 11 | 0 | 4 | 2 | 45 |
-| last180d | 2026-03-22 | 16 | 51 | 0 | 30 | 20 | 260 |
-| 360d | 2025-09-23 | 19 | 93 | 0 | 82 | 21 | 393 |
-| last720d | 2024-09-28 | 32 | 115 | 0 | 108 | 22 | 1118 |
+| 30d | 2026-08-21 | 1 | 3 | 0 | 0 | 1 | 16 |
+| last60d | 2026-07-22 | 3 | 5 | 0 | 2 | 2 | 33 |
+| 90d | 2026-06-22 | 5 | 10 | 0 | 4 | 2 | 43 |
+| last180d | 2026-03-24 | 15 | 51 | 0 | 30 | 20 | 260 |
+| 360d | 2025-09-25 | 19 | 93 | 0 | 82 | 21 | 393 |
+| last720d | 2024-09-30 | 32 | 115 | 0 | 108 | 22 | 1117 |
 
 ## Release 资产
 
@@ -75,4 +75,4 @@ hulak 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:37:35Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:28:04Z._
