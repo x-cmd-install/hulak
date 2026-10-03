@@ -14,11 +14,11 @@ x install hulak
 
 ## Code insight
 
-Total: **52,710** lines of code across **322** files in the top 5 languages.
+Total: **53,555** lines of code across **322** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 51,406 | 4,415 | 6,633 | 285 |
+| Go | 52,251 | 4,503 | 6,745 | 285 |
 | Json | 357 | 0 | 1 | 2 |
 | Zsh | 293 | 2 | 35 | 1 |
 | Yaml | 243 | 103 | 0 | 33 |
@@ -32,27 +32,27 @@ Total: **52,710** lines of code across **322** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.3.33` (2026-08-28)
-- **Last commit**: 2026-08-28
+- **Last commit**: 2026-10-02
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 95 · **Forks**: 6 · **Open issues**: 132 · **Contributors**: 4
+- **Stars**: 95 · **Forks**: 6 · **Open issues**: 142 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 116 · **Open PRs**: 1 · **Closed issues**: 110 · **Open issues**: 22 · **Commits**: 1186
+- **Releases**: 32 · **Merged PRs**: 122 · **Open PRs**: 3 · **Closed issues**: 112 · **Open issues**: 30 · **Commits**: 1217
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-08-03 | 2 | 4 | 1 | 1 | 2 | 33 |
-| 90d | 2026-07-04 | 4 | 9 | 1 | 4 | 2 | 43 |
-| last180d | 2026-04-05 | 14 | 49 | 1 | 26 | 16 | 258 |
-| 360d | 2025-10-07 | 19 | 93 | 1 | 82 | 21 | 393 |
-| last720d | 2024-10-12 | 32 | 115 | 1 | 108 | 22 | 1117 |
+| 30d | 2026-09-03 | 0 | 6 | 3 | 2 | 9 | 26 |
+| last60d | 2026-08-04 | 2 | 10 | 3 | 3 | 10 | 59 |
+| 90d | 2026-07-05 | 4 | 15 | 3 | 6 | 10 | 69 |
+| last180d | 2026-04-06 | 14 | 55 | 3 | 28 | 24 | 284 |
+| 360d | 2025-10-08 | 19 | 99 | 3 | 84 | 29 | 419 |
+| last720d | 2024-10-13 | 32 | 121 | 3 | 110 | 30 | 1148 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for hulak lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:58:01Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T06:35:50Z._
