@@ -37,22 +37,22 @@ Total: **60,952** lines of code across **355** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 96 · **Forks**: 7 · **Open issues**: 146 · **Contributors**: 5
+- **Stars**: 96 · **Forks**: 7 · **Open issues**: 147 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 132 · **Open PRs**: 0 · **Closed issues**: 122 · **Open issues**: 24 · **Commits**: 1316
+- **Releases**: 33 · **Merged PRs**: 132 · **Open PRs**: 0 · **Closed issues**: 122 · **Open issues**: 25 · **Commits**: 1316
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 16 | 0 | 11 | 3 | 118 |
-| last60d | 2026-08-22 | 2 | 19 | 0 | 12 | 3 | 147 |
-| 90d | 2026-07-23 | 4 | 21 | 0 | 13 | 4 | 152 |
-| last180d | 2026-04-24 | 14 | 60 | 0 | 35 | 18 | 322 |
-| 360d | 2025-10-26 | 20 | 109 | 0 | 94 | 23 | 512 |
-| last720d | 2024-10-31 | 33 | 130 | 0 | 118 | 24 | 1232 |
+| 30d | 2026-09-22 | 1 | 16 | 0 | 11 | 4 | 118 |
+| last60d | 2026-08-23 | 2 | 19 | 0 | 12 | 4 | 147 |
+| 90d | 2026-07-24 | 4 | 21 | 0 | 13 | 5 | 152 |
+| last180d | 2026-04-25 | 13 | 59 | 0 | 33 | 18 | 322 |
+| 360d | 2025-10-27 | 20 | 109 | 0 | 94 | 24 | 512 |
+| last720d | 2024-11-01 | 33 | 130 | 0 | 118 | 25 | 1230 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for hulak lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T06:05:44Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T06:06:54Z._
