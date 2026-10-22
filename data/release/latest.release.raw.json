@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6123441,
       "digest": "sha256:175905ad7e1643b1e89d32f7adac04eb8cadcdfa282293e0f42a64eee48d1ff3",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-10-11T19:49:45Z",
       "updated_at": "2026-10-11T19:49:46Z",
       "browser_download_url": "https://github.com/xaaha/hulak/releases/download/v0.4.00/hulak_0.4.00_Linux_x86_64.tar.gz"
