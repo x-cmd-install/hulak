@@ -47,12 +47,12 @@ Total: **60,952** lines of code across **355** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 16 | 0 | 11 | 4 | 118 |
-| last60d | 2026-08-23 | 2 | 19 | 0 | 12 | 4 | 147 |
-| 90d | 2026-07-24 | 4 | 21 | 0 | 13 | 5 | 152 |
-| last180d | 2026-04-25 | 13 | 59 | 0 | 33 | 18 | 322 |
-| 360d | 2025-10-27 | 20 | 109 | 0 | 94 | 24 | 512 |
-| last720d | 2024-11-01 | 33 | 130 | 0 | 118 | 25 | 1230 |
+| 30d | 2026-09-23 | 1 | 16 | 0 | 11 | 4 | 118 |
+| last60d | 2026-08-24 | 2 | 19 | 0 | 12 | 4 | 147 |
+| 90d | 2026-07-25 | 4 | 21 | 0 | 13 | 5 | 152 |
+| last180d | 2026-04-26 | 13 | 56 | 0 | 28 | 16 | 322 |
+| 360d | 2025-10-28 | 20 | 109 | 0 | 94 | 24 | 512 |
+| last720d | 2024-11-02 | 33 | 130 | 0 | 118 | 25 | 1227 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for hulak lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T06:06:54Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:05:54Z._
