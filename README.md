@@ -37,7 +37,7 @@ Total: **60,952** lines of code across **355** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 96 · **Forks**: 7 · **Open issues**: 147 · **Contributors**: 5
+- **Stars**: 97 · **Forks**: 7 · **Open issues**: 147 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **60,952** lines of code across **355** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 16 | 0 | 11 | 4 | 118 |
-| last60d | 2026-08-31 | 1 | 16 | 0 | 12 | 4 | 119 |
-| 90d | 2026-08-01 | 3 | 20 | 0 | 13 | 5 | 152 |
-| last180d | 2026-05-03 | 13 | 47 | 0 | 19 | 5 | 286 |
-| 360d | 2025-11-04 | 20 | 109 | 0 | 94 | 24 | 512 |
-| last720d | 2024-11-09 | 33 | 129 | 0 | 116 | 25 | 1212 |
+| 30d | 2026-10-01 | 1 | 15 | 0 | 11 | 4 | 118 |
+| last60d | 2026-09-01 | 1 | 16 | 0 | 12 | 4 | 119 |
+| 90d | 2026-08-02 | 3 | 20 | 0 | 13 | 5 | 152 |
+| last180d | 2026-05-04 | 13 | 46 | 0 | 19 | 5 | 286 |
+| 360d | 2025-11-05 | 20 | 109 | 0 | 94 | 24 | 512 |
+| last720d | 2024-11-10 | 33 | 129 | 0 | 116 | 25 | 1207 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for hulak lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T07:10:09Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T07:04:35Z._
